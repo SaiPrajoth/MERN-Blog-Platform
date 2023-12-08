@@ -1,0 +1,16 @@
+header{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(213, 174, 250);
+  max-width: 1000px;
+  margin: auto;
+  padding: 10px;
+}
+ .nav-bar{
+  display: flex;
+  gap: 10px;
+ }
+
+ .nav-bar{
+  text-decoration: none;
+ }
